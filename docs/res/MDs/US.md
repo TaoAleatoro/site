@@ -1,7 +1,7 @@
 ## Respostas na visão de usuário dos eventos da plataforma 
 
 
-## histórias de usuário
+## Histórias de usuário
 
 **História 1: login do analista** </br>
 **Sendo um** analista **gostaria de fazer** login no sistema **para usar** a plataforma
